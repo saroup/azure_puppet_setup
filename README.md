@@ -1,0 +1,1 @@
+# azure_puppet_setup
